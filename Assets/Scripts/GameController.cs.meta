@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 34f601c6915ff4a4c8784b93eae0c406
+timeCreated: 1475538762
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - winSound: {fileID: 8300000, guid: 4ff462a39b660254c9bc3858fef2cda2, type: 3}
+  - dieSound: {fileID: 8300000, guid: 3128a58ebfe82e14ab2f897a251d8812, type: 3}
+  - coinCollectedSound: {fileID: 8300000, guid: 54d1b8e59d9753c479d9673c9adbe249,
+      type: 3}
+  - spawnPoint: {instanceID: 0}
+  - player: {instanceID: 0}
+  - scoreboard: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
